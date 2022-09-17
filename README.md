@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-I'm Pierluigi and I'm an informatics student of the Sapienza University of Rome. :computer: 
+I'm Pierluigi and I'm an informatics student of the Sapienza University of Rome :computer: . 
 I'm intrested in many fields that like Etichal Hacking :sunglasses: , Operating Systems, 
 things about Internet protocols and so way.
 I want to improve my programming skills :punch: and, if possible, contribute to projects of
